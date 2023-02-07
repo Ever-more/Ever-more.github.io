@@ -1,0 +1,29 @@
+
+   h1 {
+            color:rgb(245, 245, 220);
+        }  
+        
+        body {
+            background-color:rgb(0, 0, 0);
+
+
+        }
+            
+ body {
+  background-image: url("bitanya2.png");
+background-repeat: no-repeat;
+background-position: center ;
+
+background-size: 800px 900px;
+
+}
+ p{
+            color:rgb(245, 245, 220);}
+     
+  #container { 
+	width: 65%; 
+	margin: 0 auto; 
+} 
+
+  
+#icons{background-color:rgb(0, 0, 0);}
